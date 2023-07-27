@@ -8,4 +8,5 @@ The project milestones, with no associated timeline, is as follows(This is a wor
 2. Create a hardware diagram of how each of the different components should work together. This will help with visualisation of the project on a hardware component level, as well as ensure the required physical connections are available
 3. Create the necessary software from which the boat can run
 4. Create a UI for the boat so that humans can still override and take manual control
-5. Test Boat
+5. Build Boat
+6. Test Boat
